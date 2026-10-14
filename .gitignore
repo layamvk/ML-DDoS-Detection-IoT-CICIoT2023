@@ -1,0 +1,13 @@
+# Bytecode and runtime cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# System & IDE artifacts
+.vscode/
+.idea/
+*.log
+.gemini/
